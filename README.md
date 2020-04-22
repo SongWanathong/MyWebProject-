@@ -16,4 +16,26 @@
     
     แก้ไขจาก develop มาสร้างเป็น branch hotfix เเล้ว  Merge กลับ ไปยัง develop และ master
 
+4.
+# javascript Alert App
+โปรเจคเว็ปแอฟจัดทำโดย จักรดาว วณะทอง
+  
+  ## Features
+
+  ⋅⋅* list 1 
+  ⋅⋅* list 2
+  ⋅⋅* list 3
+  
+  ## Example code
+  
+```javascript
+<javascript>
+ alert('ok')
+</javascript>
+```   
+  ## Credit  
+ [my-email@gmail.com](https://www.google.com)
+  ## License  
+  MIT
+
 
